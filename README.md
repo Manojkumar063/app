@@ -3,8 +3,9 @@ Here’s a more **humanized** and friendly version of your `README.md`, while ke
 ---
 
 # 📅 Monthly Bill Generator
-"C:\Users\MANOJKUMAR\OneDrive\Pictures\Screenshots\Screenshot 2025-05-05 215605.png"
-"C:\Users\MANOJKUMAR\OneDrive\Pictures\Screenshots\Screenshot 2025-05-05 215634.png"
+![Screenshot 1](images/Screenshot_2025-05-05_215605.png)
+![Screenshot 2](images/Screenshot_2025-05-05_215634.png)
+
 
 Welcome! This is a simple yet powerful **Streamlit app** that helps you generate accurate monthly billing reports. Just select a month, and the app will calculate charges for all active items during that time — handling overlaps, rate differences, and billing periods like a pro.
 
